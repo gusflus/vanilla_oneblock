@@ -36,4 +36,4 @@ python autostart.py
 
 ## Notes:
 
-I will clean this up later so that it is easier to use.
+I will clean this up later so that it is easier to use. Currently it is a bit of a mess and you will need to edit the scripts to get them to work for you.
